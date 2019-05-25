@@ -16,5 +16,8 @@ function loop(num, fruta){
     }
   } 
 }
-loop(3,['apple', 'orange', 'cherry']);
-console.log('Hello World');
+loop(3,['mango', 'watermelon', 'plum']);
+
+
+let empty = [];
+ 
