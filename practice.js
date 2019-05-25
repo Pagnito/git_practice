@@ -1,6 +1,6 @@
 let promise = new Promise((resolve, reject)=>{
   setTimeout(()=>{
-    resolve('Hello World')
+    resolve('Hello Mars')
   },5000)
 })
 promise.then((word)=>{
