@@ -7,7 +7,7 @@ promise.then((word)=>{
   console.log(word)
 })
 function loop(num, fruta){
-  if(fruits.length!==num){
+  if(fruta.length!==num){
     console.log('Number and number of words dont match')
     return;
   } else {
